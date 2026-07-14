@@ -1,5 +1,7 @@
 # myagent
 
+![myagent terminal screenshot](./public/img/myagent-screenshot.png)
+
 ## Project Introduction
 
 `myagent` is a local harness agent project built with TypeScript and Node.js. It is inspired by the [`shareAI-lab/learn-claude-code`](https://github.com/shareAI-lab/learn-claude-code) project and focuses on understanding how a Claude Code-style coding agent is assembled around an LLM.

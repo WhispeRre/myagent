@@ -1,5 +1,7 @@
 # myagent
 
+![myagent terminal screenshot](./public/img/myagent-screenshot.png)
+
 ## 项目介绍
 
 `myagent` 是一个基于 TypeScript 和 Node.js 搭建的本地 harness agent 项目。它的学习来源是 [`shareAI-lab/learn-claude-code`](https://github.com/shareAI-lab/learn-claude-code)，重点是理解 Claude Code 风格 Coding Agent 背后的 harness 架构。
